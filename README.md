@@ -6,7 +6,7 @@
   - And my Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
 
 
-- **What I'm working on now:** A typing game in React. After the Frontend is done, I plan on including a backend that logs high scores in a MongoDB database. 
+- **What I'm working on now:** A [typing game](https://github.com/aemann2/typing-game) in React. After the Frontend is done, I plan on including a backend that logs high scores in a MongoDB database. 
 
 - **Technologies and tools I use:**
   - Frontend: 		
