@@ -10,11 +10,11 @@
 
 - **Technologies and tools I use:**
   - Frontend: 		
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-    ![React](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=react)
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.javascript.com/)
+    [![React](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=react)](https://reactjs.org/)
+    [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+    [![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
+    [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   - Backend: 
     ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
     ![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)
