@@ -16,21 +16,21 @@
     [![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
     [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   - Backend: 
-    ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-    ![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)
-    ![MySQL](https://img.shields.io/badge/-MySql-important?style=flat-square&logo=mysql)
+    [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.dev/)
+    [![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)](https://expressjs.com/)
+    [![MySQL](https://img.shields.io/badge/-MySql-important?style=flat-square&logo=mysql)](https://www.mysql.com/)
   - Deployment:
-    ![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat-square&logo=heroku)
-    ![Netlify](https://img.shields.io/badge/-Netlify-critical?style=flat-square&logo=netlify)
+    [![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat-square&logo=heroku)](https://dashboard.heroku.com/login)
+    [![Netlify](https://img.shields.io/badge/-Netlify-critical?style=flat-square&logo=netlify)](https://www.netlify.com/)
   - Tools: 
-    ![Git](https://img.shields.io/badge/-Git-9cf?style=flat-square&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-    ![VS Code](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visualstudiocode)
-    ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-    ![Postman](https://img.shields.io/badge/-Postman-F24E1E?style=flat-square&logo=postman&logoColor=white)
+    [![Git](https://img.shields.io/badge/-Git-9cf?style=flat-square&logo=git)](https://git-scm.com/)
+    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
+    [![VS Code](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+    [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)](https://www.figma.com/)
+    [![Postman](https://img.shields.io/badge/-Postman-F24E1E?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
   - Familiar:
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+    [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+    [![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 
 <br/>
 
