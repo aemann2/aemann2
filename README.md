@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm currently working on:** learning **Node/Express** with [Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b/?originalSubdomain=uk) and [Brad Traversy](https://www.youtube.com/watch?v=fBNz5xF-Kx4). 
+- **What I'm currently learning:** **Node/Express** with [Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b/?originalSubdomain=uk) and [Brad Traversy](https://www.youtube.com/watch?v=fBNz5xF-Kx4). 
+
+- **What I'm working on now:** A [typing game](https://github.com/aemann2/typing-game) in React. After the Frontend is done, I plan on including a backend that logs high scores in a MongoDB database. 
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - And my Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
 
-
-- **What I'm working on now:** A [typing game](https://github.com/aemann2/typing-game) in React. After the Frontend is done, I plan on including a backend that logs high scores in a MongoDB database. 
 
 - **Technologies and tools I use:**
   - Frontend: 		
