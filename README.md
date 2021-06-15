@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm currently learning:** **Node/Express** with [Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b/?originalSubdomain=uk) and [Brad Traversy](https://www.youtube.com/watch?v=fBNz5xF-Kx4). 
+- **What I'm currently learning:** **Typescript!**
 
 - **What I'm working on now:** A [typing game](https://github.com/aemann2/typing-game) in React. After the Frontend is done, I plan on including a backend that logs high scores in a MongoDB database. 
 
