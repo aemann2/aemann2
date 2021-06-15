@@ -2,7 +2,7 @@
 
 - **What I'm currently learning:** **Typescript!**
 
-- **What I'm working on now:** A [typing game](https://github.com/aemann2/typing-game) in React. After the Frontend is done, I plan on including a backend that logs high scores in a MongoDB database. 
+- **What I'm working on now:** A [film info app](https://github.com/aemann2/movie_db) in React. I want to use this project to show off my Typescript and Tailwind skills.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - And my Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
