@@ -5,7 +5,8 @@
 - **What I'm working on now:** A [film info app](https://github.com/aemann2/movie_db) in React. I want to use this project to show off my Typescript and Tailwind skills.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
-  - And my Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
+  - My Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
+  - And my Frontend Mentor work here: [![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-blue?style=flat-square&logo=frontendmentor)](https://www.frontendmentor.io/profile/aemann2)
 
 
 - **Technologies and tools I use:**
