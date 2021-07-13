@@ -12,7 +12,7 @@
 - **Technologies and tools I use:**
   - Frontend: 		
     [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.javascript.com/)
-    [![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+    [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
     [![React](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=react)](https://reactjs.org/)
     [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
     [![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
