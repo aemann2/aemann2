@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm currently learning:** Framer Motion!
+- **What I'm currently learning:** GraphQL!
 
 - **What I'm working on now:** A [film info app](https://github.com/aemann2/movie_db) in React. I want to use this project to show off my Typescript and Tailwind skills.
 
