@@ -2,7 +2,7 @@
 
 - **What I'm currently learning:** GraphQL!
 
-- **What I'm working on now:** A [film info app](https://github.com/aemann2/movie_db) in React. I want to use this project to show off my Typescript and Tailwind skills.
+- **What I'm working on now:** Converting my [Typing Blitz](https://github.com/aemann2/typing-blitz) game to full-stack. I'm adding a top-score feature that lets users enter their initials and see who has the top scores in the game.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - My Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
