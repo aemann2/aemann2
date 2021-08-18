@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm currently learning:** Unit / Integration testing w/ Jest. Also, GraphQL!
+- **What I'm currently learning:** Unit / Integration testing w/ Jest.
 
 - **What I'm working on now:** Converting my [Typing Blitz](https://github.com/aemann2/typing-blitz) game to full-stack. I'm adding a top score feature that lets players enter their initials and logs their score in MongoDB. Players can see the top scores in the game.
 
