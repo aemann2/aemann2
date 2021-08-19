@@ -42,6 +42,6 @@
 
 
 <!--
-**aemann2/aemann2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aemann2/aemann2** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemann2&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide=stars)
