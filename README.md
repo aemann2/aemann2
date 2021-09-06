@@ -2,7 +2,7 @@
 
 - **What I'm currently learning:** Unit / Integration testing w/ React Testing Library and Jest. Dipping my toes into Next.js as well!
 
-- **What I'm working on now:** A suite of mini fullstack applications that each focus on a different task.
+- **What I'm working on now:** A suite of [mini fullstack applications](https://github.com/aemann2/fullstack-demos) that each focus on a different task.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - My Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
