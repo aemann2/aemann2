@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm currently learning:** Unit / Integration testing w/ React Testing Library and Jest. Dipping my toes into Next.js as well!
+- **What I'm currently learning:** Unit / Integration testing w/ React Testing Library, Jest and Mock Service Worker. Dipping my toes into Next.js as well!
 
 - **What I'm working on now:** A suite of [mini fullstack applications](https://github.com/aemann2/fullstack-demos) that each focus on a different task: a menu inventory manager, a contact list, and a URL shortener. I'm hoping to build authentication too!
 
