@@ -2,7 +2,7 @@
 
 - **What I'm currently learning:** PERN stack (which is Postgres instead of MongoDB). I've also just started working with React Native!
 
-- **What I'm working on now:** Building the backend for a [stock tracker application](https://github.com/aemann2/stock-tracker-backend). It's my first time implementing registration and login on my own, and I'm learning a lot about authentication. Next month I will be building out the [frontend](https://github.com/aemann2/stock-tracker-frontend)
+- **What I'm working on now:** Building the backend for a [stock tracker application](https://github.com/aemann2/stock-tracker-backend). It's my first time implementing registration and login on my own, and I'm learning a lot about authentication. Next month I will be building out the [frontend](https://github.com/aemann2/stock-tracker-frontend).
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - My Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
