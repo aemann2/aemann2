@@ -2,7 +2,7 @@
 
 - **What I'm learning now:** PERN stack (which is Postgres instead of MongoDB). I've also started working with React Native and am creating my first NextJS app from scratch!
 
-- **What I'm working on now:** Building the backend for a [stock tracker application](https://github.com/aemann2/next-stock-tracker). It's my first time implementing registration and login on my own, and I'm learning a lot about authentication. Next month I will be building out the [frontend]. Using this stack: Next.js, Typescript, Prisma, Postgres, and GraphQL.
+- **What I'm working on now:** Building a full stack [stock tracker application](https://github.com/aemann2/next-stock-tracker). It's my first time implementing registration and login on my own, and I'm learning a lot about authentication. Next month I will be building out the [frontend]. Using this stack: Next.js, Typescript, Prisma, Postgres, and GraphQL.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - My Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
