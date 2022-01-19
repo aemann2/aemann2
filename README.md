@@ -2,6 +2,8 @@
 
 - **What I'm learning now:** PERN stack (which is Postgres instead of MongoDB). I've also started working with React Native and am creating my first NextJS app from scratch!
 
+- **Open Source Work:** I'm a volunteer for [OpenOakland](https://github.com/openoakland), a project of Code for America that uses technology to solve problems in my community.
+
 - **What I'm working on now:** Building a full stack [stock tracker application](https://github.com/aemann2/next-stock-tracker). It's my first time implementing registration and login on my own, and I'm learning a lot about authentication. Next month I will be building out the [frontend]. Using this stack: Next.js, Typescript, Prisma, Postgres, and GraphQL.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
