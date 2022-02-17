@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm learning now:** I'm getting familiar with [Redwood](https://redwoodjs.com/), a React framework that simplifies setting up GraphQL and automates repetitive tasks. I'm using the framework to build a simple [Google Books search](https://github.com/aemann2/books-api). I've also been working a lot with React Native, and am creating my first NextJS app from scratch!
+- **What I'm learning now:** I'm getting familiar with [Redwood](https://redwoodjs.com/), a React framework that simplifies setting up GraphQL and automates repetitive tasks. I've also been working a lot with React Native, and am creating my first NextJS app from scratch!
 
 - **Open Source Work:** I'm a volunteer for [OpenOakland](https://github.com/openoakland), a project of Code for America that uses technology to solve problems in my community. I'm currently working on a project called [Funding Public Safety](https://github.com/openoakland/funding-public-safety).
 
