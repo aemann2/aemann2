@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm learning now:** I'm getting familiar with [Redwood](https://redwoodjs.com/), a React framework that simplifies setting up GraphQL and automates repetitive tasks. I've also been working a lot with React Native, and am creating my first NextJS app from scratch!
+- **What I'm learning now:** I work for a company that uses [Django](https://www.djangoproject.com/), so I've been spending a lot of time with that framework learning Class Based Views. So far I'm extremely impressed with how easy it is to quickly stand up a full-stack application.
 
 - **Open Source Work:** I'm a volunteer for [OpenOakland](https://github.com/openoakland), a project of Code for America that uses technology to solve problems in my community. I'm currently working on a project called [Funding Public Safety](https://github.com/openoakland/funding-public-safety).
 
@@ -21,6 +21,7 @@
     [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.dev/)
     [![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)](https://expressjs.com/)
     [![MySQL](https://img.shields.io/badge/-MySql-important?style=flat-square&logo=mysql)](https://www.mysql.com/)
+    [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
   - Deployment:
     [![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat-square&logo=heroku)](https://dashboard.heroku.com/login)
     [![Netlify](https://img.shields.io/badge/-Netlify-critical?style=flat-square&logo=netlify)](https://www.netlify.com/)
@@ -31,7 +32,6 @@
     [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)](https://www.figma.com/)
     [![Postman](https://img.shields.io/badge/-Postman-F24E1E?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
   - Familiar:
-    [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
     [![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 
 <br/>
