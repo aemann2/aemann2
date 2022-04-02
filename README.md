@@ -22,6 +22,7 @@
     [![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)](https://expressjs.com/)
     [![MySQL](https://img.shields.io/badge/-MySql-important?style=flat-square&logo=mysql)](https://www.mysql.com/)
     [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+    [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.python.org/)
   - Deployment:
     [![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?style=flat-square&logo=heroku)](https://dashboard.heroku.com/login)
     [![Netlify](https://img.shields.io/badge/-Netlify-critical?style=flat-square&logo=netlify)](https://www.netlify.com/)
