@@ -4,7 +4,7 @@
 
 - **Open Source Work:** I'm a volunteer for [OpenOakland](https://github.com/openoakland), a project of Code for America that uses technology to solve problems in my community. I'm currently working on a project called [Funding Public Safety](https://github.com/openoakland/funding-public-safety).
 
-- **What I'm working on now:** Building a full stack [stock tracker application](https://github.com/aemann2/next-stock-tracker). It's my first time implementing registration and login on my own, and I'm learning a lot about authentication using NextAuth. Next month I will be building out the [frontend]. Using this stack: Next.js, Typescript, Prisma, Postgres, and GraphQL.
+- **What I'm working on now:** Building a full stack [stock tracker application](https://github.com/aemann2/next-stock-tracker) and learning Django. It's my first time implementing registration and login on my own, and I'm learning a lot about authentication using NextAuth. Next month I will be building out the [frontend]. Using this stack: Next.js, Typescript, Prisma, Postgres, and GraphQL.
 
 - **You can find my portfolio here:** [adam-mann.co](https://adam-mann.co/)
   - My Linkedin here: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-e-mann/)](https://www.linkedin.com/in/adam-e-mann/)
