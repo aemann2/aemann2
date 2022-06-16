@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam!</h1>
 
-- **What I'm learning now:** I work for a company that uses [Django](https://www.djangoproject.com/), so I've been spending a lot of time with that framework learning Class Based Views. So far I'm extremely impressed with how easy it is to quickly stand up a full-stack application.
+- **What I'm learning now:** I've been digging in to automation, and have been making my way through [Automate the Boring Stuff](https://automatetheboringstuff.com/). I recently built this [bot that plays 2048](https://github.com/aemann2/2048bot)
 
 - **Open Source Work:** I'm a volunteer for [OpenOakland](https://github.com/openoakland), a project of Code for America that uses technology to solve problems in my community. I'm currently working on a project called [Funding Public Safety](https://github.com/openoakland/funding-public-safety).
 
